@@ -1,0 +1,7 @@
+.sub_total{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    background-color: aliceblue;
+    padding: 20px;
+}
